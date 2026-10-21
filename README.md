@@ -11,3 +11,4 @@ El sistema debe permitir registrar:
 También se deben establecer las relaciones y cardinalidades, teniendo en cuenta que un paciente puede tener varios turnos, un médico puede tener varias especialidades y en una misma consulta se pueden recetar varios medicamentos.
 
 El objetivo es crear un MER que permita organizar y administrar la información médica, los turnos de atención y las recetas de los pacientes de forma clara y ordenada.
+<img width="2622" height="1082" alt="EJERCICIO 3 drawio" src="https://github.com/user-attachments/assets/8494884e-cda6-4b5d-9fa6-ececa84d7f06" />
